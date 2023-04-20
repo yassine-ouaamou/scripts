@@ -1,0 +1,7 @@
+alias b="cd /c/Users/yassi/IdeaProjects/opencti/opencti-platform/opencti-graphql"
+alias f="cd /c/Users/yassi/IdeaProjects/opencti/opencti-platform/opencti-front"
+alias cl="cd /c/Users/yassi/IdeaProjects/client-python"
+alias co="cd /c/Users/yassi/IdeaProjects/connectors"
+alias bi="b && yarn install"
+alias fi="f && yarn install"
+alias i="bi && fi"
